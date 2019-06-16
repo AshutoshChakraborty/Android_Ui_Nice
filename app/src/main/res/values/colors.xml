@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    
+    <color name="Yellow">#fffbed96</color>
+    <color name="blue">#ffabecd6</color>
+    <color name="orange">#ffFFC3A0</color>
+    <color name="pink">#ffFFAFBD</color>
+    <color name="emailSuffixIconColor">#ff35AA90</color>
+    <color name="passwordBackgroundColor">#3305756D</color>
+
 </resources>
